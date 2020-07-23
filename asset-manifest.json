@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-imdb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/movie-imdb/static/js/main.cdf1ee90.chunk.js",
+    "main.js.map": "/movie-imdb/static/js/main.cdf1ee90.chunk.js.map",
+    "runtime-main.js": "/movie-imdb/static/js/runtime-main.b2f1bd33.js",
+    "runtime-main.js.map": "/movie-imdb/static/js/runtime-main.b2f1bd33.js.map",
+    "static/js/2.445f3282.chunk.js": "/movie-imdb/static/js/2.445f3282.chunk.js",
+    "static/js/2.445f3282.chunk.js.map": "/movie-imdb/static/js/2.445f3282.chunk.js.map",
+    "index.html": "/movie-imdb/index.html",
+    "precache-manifest.6de697d8eddb71ca7257fdeef6ebb0d1.js": "/movie-imdb/precache-manifest.6de697d8eddb71ca7257fdeef6ebb0d1.js",
+    "service-worker.js": "/movie-imdb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/movie-imdb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.445f3282.chunk.js.LICENSE.txt": "/movie-imdb/static/js/2.445f3282.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/movie-imdb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2f1bd33.js",
+    "static/js/2.445f3282.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cdf1ee90.chunk.js"
+  ]
+}
